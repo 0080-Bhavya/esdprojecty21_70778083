@@ -1,5 +1,4 @@
 university ID Name
 2110040070    jahnavi
-2110040077    shreyaswi
 2110040080    bhavyasree
 2110040083    pammita
